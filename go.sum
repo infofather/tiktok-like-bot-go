@@ -1,6 +1,6 @@
-github.com/joho/godotenv v1.5.1 h1:sJZxYjKeM9xdYojBFy+NytFLxHFZ5F9q7GpewA2/fKw=
-github.com/joho/godotenv v1.5.1/go.mod h1:3NGC+61ojcsLWxIrBPlhZm4RjF8yEd/37ZKDoVZ3z14=
 github.com/go-telegram-bot-api/telegram-bot-api/v5 v5.5.1 h1:8+soepvWczkQ5bJzK1x5qtQCR5Iojv9OmLyyaV71vbo=
 github.com/go-telegram-bot-api/telegram-bot-api/v5 v5.5.1/go.mod h1:XpN7ks8uMiPx+Wk6rHpRSq2v2HhRM0QL3EcMdj+XG3A=
-modernc.org/sqlite v1.22.1 h1:kVpBb0UqqSrw+8mZj+MAvQAm5z4Yz/51A+rVJoInW9k=
+github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
+github.com/joho/godotenv v1.5.1/go.mod h1:3NGC+61ojcsLWxIrBPlhZm4RjF8yEd/37ZKDoVZ3z14=
+modernc.org/sqlite v1.22.1 h1:LNLqDnQquIHnGQKGVxRctuvd2dZnQQZTcTQeIjf1oOE=
 modernc.org/sqlite v1.22.1/go.mod h1:kDp3E3oAiUIZb8FbfD0TjvqfrE4ykeKhaQdPZ/1UKsA=
